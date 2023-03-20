@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "sct-pat-fi"
+  site-url: "https://matiasto.github.io/sct-pat-fi"
+  description: "An app to manage the Finnish SNOMED CT pathology subset."
+  repo-branch: main
+  repo-url: "https://github.com/matiasto/sct-pat-fi"
